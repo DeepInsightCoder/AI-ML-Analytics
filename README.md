@@ -1,8 +1,7 @@
 # AI-ML-Analytics
 
 ## Overview
-Welcome to the AI-ML-Analytics repository! This repository is curated by **DeepInsightCoder** and features a collection of projects and resources related to analytics, machine learning, artificial intelligence, and data analysis. Whether you're a beginner or an experienced professional, you'll find valuable insights and examples here to enhance your skills.
-
+Welcome to the AI-ML-Analytics repository! This repository is curated by DeepInsightCoder and features a collection of projects and resources related to analytics, machine learning, artificial intelligence, and data analysis. Whether you're a beginner or an experienced professional, you'll find valuable insights and examples here to enhance your skills.
 ## Contents
 - **Basics.ipynb**: An introduction to basic analytics and visualization techniques.
 - **Basicanviz.ipynb**: A short form version covering basic analytics and visualizations.
@@ -13,9 +12,7 @@ Welcome to the AI-ML-Analytics repository! This repository is curated by **DeepI
 ## Getting Started
 To get the most out of this repository, follow these steps:
 
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/DeepInsightCoder/AI-ML-Analytics.git
+1. **Clone the Repository**:https://github.com/DeepInsightCoder/AI-ML-Analytics.git
     cd AI-ML-Analytics
     ```
 
@@ -24,12 +21,20 @@ To get the most out of this repository, follow these steps:
     ```bash
     pip install -r requirements.txt
     ```
+    Or, install individually:
+
+pandas: Data manipulation and analysis
+numpy: Numerical computing
+matplotlib: Plotting and visualization
+seaborn: Statistical data visualization
+scikit-learn: Machine learning algorithms and tools
+streamlit: Web app framework for building data science apps
+nltk: Natural language processing (if used for sentiment analysis)
+plotly: Interactive visualizations (optional, if you use it)
 
 3. **Run the Notebooks**:
     Launch Jupyter Notebook and open the desired file:
-    ```bash
     jupyter notebook
-    ```
 
 ## Projects
 1. **Basics.ipynb**: Introduction to basic analytics and visualization techniques.
@@ -40,11 +45,5 @@ To get the most out of this repository, follow these steps:
 ## Contributing
 Contributions are welcome! If you have a project or resource that you'd like to add, please fork this repository and submit a pull request. For major changes, please open an issue to discuss what you would like to change.
 
-## Contact
-If you have any questions or feedback, feel free to contact me at [ayeshtariq604@gmail.com](mailto:ayeshtariq604@gmail.com).
 
 Happy coding!
-
----
-
-Feel free to customize this template further to better fit your specific needs and preferences.
